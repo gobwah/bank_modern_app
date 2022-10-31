@@ -32,10 +32,10 @@ TAGS
 
 {demo_url}
 {logo}
-{username}
-{project_name}
-{project_title}
-{project_description}
+gobwah
+bank_modern_app
+HooBank
+Modern bank app using React and Tailwind
 
 -->
 
@@ -46,19 +46,19 @@ TAGS
     <img src="{logo}" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">{project_title}</h3>
+<h3 align="center">HooBank</h3>
 
   <p align="center">
-    {project_description}
+    Modern bank app using React and Tailwind
     <br />
-    <a href="https://github.com/{username}/{project_name}"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/gobwah/bank_modern_app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="{demo_url}">View Demo</a>
     ·
-    <a href="https://github.com/{username}/{project_name}/issues">Report Bug</a>
+    <a href="https://github.com/gobwah/bank_modern_app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/{username}/{project_name}/issues">Request Feature</a>
+    <a href="https://github.com/gobwah/bank_modern_app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -90,7 +90,7 @@ TAGS
 
 ## About The Project
 
-[![{project_title} Screen Shot][product-screenshot]]({demo_url})
+[![HooBank Screen Shot][product-screenshot]]({demo_url})
 
 About section...
 
@@ -98,11 +98,10 @@ About section...
 
 ### Built With
 
-|                                                           |                                                                                                                                                                                                                                                                                                  |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [React](https://reactjs.org/)                             | <img src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" alt="React logo" width="50" height="50"/>                                                                                                                                                                                   |
-| [React Icons](https://react-icons.github.io/react-icons/) | <img src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667" alt="React Router logo" width="50" height="50"/> |
-| [Styled Components](https://styled-components.com/)       | <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Redux logo" width="50" height="50"/>                                                                                                                                                      |
+|                                      |                                                                                                                                   |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| [React](https://reactjs.org/)        | <img src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" alt="React logo" width="50" height="50"/>                    |
+| [Tailwind](https://tailwindcss.com/) | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind logo" width="50" height="50"/> |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,7 +120,7 @@ About section...
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/{username}/{project_name}.git
+    git clone https://github.com/gobwah/bank_modern_app.git
     ```
 2. Install dependencies
     ```sh
@@ -161,7 +160,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Vincent DELLA-LIBERA - [@vincent-dellalibera](https://linkedin.com/in/vincent-dellalibera) - vincent.dellalibera@gmail.com
 
-Project Link: [https://github.com/{username}/{project_name}](https://github.com/{username}/{project_name})
+Project Link: [https://github.com/gobwah/bank_modern_app](https://github.com/gobwah/bank_modern_app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,23 +168,23 @@ Project Link: [https://github.com/{username}/{project_name}](https://github.com/
 
 ## Acknowledgments
 
--   []()
+-   [JS Mastery](https://github.com/adrianhajdin/project_hoobank)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/{username}/{project_name}.svg?style=for-the-badge
-[contributors-url]: https://github.com/{username}/{project_name}/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/{username}/{project_name}.svg?style=for-the-badge
-[forks-url]: https://github.com/{username}/{project_name}/network/members
-[stars-shield]: https://img.shields.io/github/stars/{username}/{project_name}.svg?style=for-the-badge
-[stars-url]: https://github.com/{username}/{project_name}/stargazers
-[issues-shield]: https://img.shields.io/github/issues/{username}/{project_name}.svg?style=for-the-badge
-[issues-url]: https://github.com/{username}/{project_name}/issues
-[license-shield]: https://img.shields.io/github/license/{username}/{project_name}.svg?style=for-the-badge
-[license-url]: https://github.com/{username}/{project_name}/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/gobwah/bank_modern_app.svg?style=for-the-badge
+[contributors-url]: https://github.com/gobwah/bank_modern_app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gobwah/bank_modern_app.svg?style=for-the-badge
+[forks-url]: https://github.com/gobwah/bank_modern_app/network/members
+[stars-shield]: https://img.shields.io/github/stars/gobwah/bank_modern_app.svg?style=for-the-badge
+[stars-url]: https://github.com/gobwah/bank_modern_app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gobwah/bank_modern_app.svg?style=for-the-badge
+[issues-url]: https://github.com/gobwah/bank_modern_app/issues
+[license-shield]: https://img.shields.io/github/license/gobwah/bank_modern_app.svg?style=for-the-badge
+[license-url]: https://github.com/gobwah/bank_modern_app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/vincent-dellalibera
 [product-screenshot]: client/public/screenshot.jpg
