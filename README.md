@@ -31,7 +31,7 @@
 TAGS
 
 {demo_url}
-{logo}
+./public/logo.svg
 gobwah
 bank_modern_app
 HooBank
@@ -43,7 +43,7 @@ Modern bank app using React and Tailwind
 <br />
 <div align="center">
   <a href="{demo_url}">
-    <img src="{logo}" alt="Logo" width="80" height="80">
+    <img src="./public/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">HooBank</h3>
