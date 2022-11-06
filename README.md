@@ -30,7 +30,7 @@
 
 TAGS
 
-{demo_url}
+https://gobwah.github.io/bank_modern_app/
 ./public/logo.svg
 gobwah
 bank_modern_app
@@ -42,7 +42,7 @@ Modern bank app using React and Tailwind
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="{demo_url}">
+  <a href="https://gobwah.github.io/bank_modern_app/">
     <img src="./public/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -54,7 +54,7 @@ Modern bank app using React and Tailwind
     <a href="https://github.com/gobwah/bank_modern_app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="{demo_url}">View Demo</a>
+    <a href="https://gobwah.github.io/bank_modern_app/">View Demo</a>
     ·
     <a href="https://github.com/gobwah/bank_modern_app/issues">Report Bug</a>
     ·
@@ -90,9 +90,9 @@ Modern bank app using React and Tailwind
 
 ## About The Project
 
-[![HooBank Screen Shot][product-screenshot]]({demo_url})
+[![HooBank Screen Shot][product-screenshot]](https://gobwah.github.io/bank_modern_app/)
 
-About section...
+A modern bank website named HooBank using React + Tailwind
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,4 +187,4 @@ Project Link: [https://github.com/gobwah/bank_modern_app](https://github.com/gob
 [license-url]: https://github.com/gobwah/bank_modern_app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/vincent-dellalibera
-[product-screenshot]: client/public/screenshot.jpg
+[product-screenshot]: /public/screenshot.jpg
